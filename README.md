@@ -13,8 +13,7 @@
   </div>
   <h3 align="center">Docker Crash Course</h3>
    <div align="center">
-     Learn how to Dockerize various applications step by step with our detailed tutorial 
-     on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/channel/UChz-VlXINivlDUpeOz9v5kg" target="_blank"><b>JavaScript Tutorial</b></a>           YouTube. Join the JST family!
     </div>
 </div>
 
