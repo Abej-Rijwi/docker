@@ -13,7 +13,7 @@
   </div>
   <h3 align="center">Docker Crash Course</h3>
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/channel/UChz-VlXINivlDUpeOz9v5kg" target="_blank"><b>JavaScript Tutorial</b></a>           YouTube. Join the JST family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XrBPDCIFWd8" target="_blank"><b>JavaScript Tutorial</b></a>           YouTube. Join the JST family!
     </div>
 </div>
 
@@ -32,7 +32,7 @@
 <br />
 
 ## 🚨 Tutorial
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Tutorial</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/channel/UChz-VlXINivlDUpeOz9v5kg" target="_blank"><b>JavaScript Tutorial</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
